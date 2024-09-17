@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FoodApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="RadioButtonStyle">
+        <item name="colorAccent">@color/mainColor</item>
+    </style>
+
+    <style name="textStyle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="textStyleBold">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="SwitchButtonStyle">
+        <item name="colorAccent">@color/mainColor</item>
+    </style>
+
+    <style name="Theme.FoodApp" parent="Base.Theme.FoodApp" />
+</resources>
