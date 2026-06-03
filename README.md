@@ -2,7 +2,7 @@ Food App
 
 Browsing categories, placing orders, and real-time order tracking for a seamless food delivery experience. Receive instant notifications on order status, delivery updates, and estimated arrival times. Built with a clean, scalable architecture, ensuring fast performance, reliability, and an exceptional user experience.
 
-![Food App](https://github.com/user-attachments/assets/182ab035-dc77-4260-af9d-04390e4e71c3)
+<img width="6014" height="6017" alt="Food app ss" src="https://github.com/user-attachments/assets/a7f97566-9073-419a-a81c-5ad11693c28c" />
 
 https://github.com/user-attachments/assets/fbe26303-92f0-447f-bc75-10789203fab5
 
